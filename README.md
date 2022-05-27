@@ -8,7 +8,7 @@ Extended Mizar parser
 ### Antlr4
   * We assume developers use vscode and its extension "ANTLR4 grammar syntax support".
   * Open folder "${project_root}/src/emparser/antlr" with vscode
-  * Touch "mizar.g4", then antlr4 processing will start and generate Mizar*.py in the folder.
+  * Touch "mizar.g4", then antlr4 processing will start and generate Mizar*.interp in the folder ".antlr"
 
 ### Setup development environment
 > pipenv install
