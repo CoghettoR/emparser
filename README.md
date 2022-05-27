@@ -15,6 +15,7 @@ Extended Mizar parser
 
 ### Build
 > python setup.py build
+(or python3 setup.py build)
 
 ### Test execution
 > pipenv install --dev -e .  
